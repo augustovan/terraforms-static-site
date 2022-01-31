@@ -11,7 +11,9 @@
 ## The Projetc
 
 ### Diagram
-[!diagram](img/8.jpg)
+<img src="img/8.jgp"
+     alt="Diagram"
+     style="float: left; margin-right: 10px;" />
 
 ## Author
 
