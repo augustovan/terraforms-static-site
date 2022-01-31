@@ -11,7 +11,7 @@
 ## The Projetc
 
 ### Diagram
-<img src="img/8.jgp"
+<img src="img/8.jpg"
      alt="Diagram"
      style="float: left; margin-right: 10px;" />
 
