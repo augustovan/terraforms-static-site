@@ -8,6 +8,11 @@
 
 > This is a simple project using AWS and Terraform to provisioning a new infraesctruture as code 
 
+## The Projetc
+
+### Diagram
+[!diagram](img/8.jpg)
+
 ## Author
 
 👤 **Victor Nascimento**
